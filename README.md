@@ -23,4 +23,4 @@ Flowchart ini memberikan gambaran tingkat tinggi tentang bagaimana program menga
 ![gambar](latihan.png)
 
 # Praktikkum 6 Menampilkan daftar nilai Mahasiswa dengan Dictionary
-![gambar](Praktikum6.png)
+![gambar](Prakktikum6.png)
