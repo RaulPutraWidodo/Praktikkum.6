@@ -1,3 +1,5 @@
+# Flowchart
+![gambar](flwchrt.png)
 # Penjelasan dari flowchart:
 
 1. *Mulai*: Program dimulai.
@@ -16,3 +18,9 @@
 7. *Selesai*: Program berakhir.
 
 Flowchart ini memberikan gambaran tingkat tinggi tentang bagaimana program mengalir dan tindakan apa yang diambil berdasarkan input pengguna.
+
+# Latihan Dictionary Daftar Kontak
+![gambar](latihan.png)
+
+# Praktikkum 6 Menampilkan daftar nilai Mahasiswa dengan Dictionary
+![gambar](Praktikum6.png)
